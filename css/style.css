@@ -192,6 +192,10 @@ body._lock {
   display: none;
 }
 
+.menu__body {
+  position: relative;
+}
+
 .menu__link {
   color: #828282;
   font-size: 18px;
